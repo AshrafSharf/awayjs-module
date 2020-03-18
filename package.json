@@ -1,0 +1,14 @@
+{
+  "name": "awayjs",
+  "version": "0.1",
+  "description": "awayjs module",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshrafSharf/awayjs-module.git\n"
+  },
+  "files": [
+    "dist/"
+  ],
+  "license": "MIT"
+}
