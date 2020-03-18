@@ -1,5 +1,5 @@
 {
-  "name": "awayjs",
+  "name": "awayjs-module",
   "version": "0.1",
   "description": "awayjs module",
   "main": "dist/index.js",
